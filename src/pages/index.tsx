@@ -24,8 +24,6 @@ const Styled = {
   Main: styled.main`
     display: flex;
     position: absolute;
-    width: 100px;
-    height: 100px;
     color: ${({ theme }) => theme.colors.mainColor};
   `,
 };
