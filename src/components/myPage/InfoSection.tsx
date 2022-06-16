@@ -29,7 +29,6 @@ export default function InfoSection() {
 }
 
 const StUserInfoListWrapper = styled.ul`
-
   display: flex;
 
   border-top: 1px solid rgb(219, 219, 219);
@@ -38,7 +37,6 @@ const StUserInfoListWrapper = styled.ul`
 `;
 
 const StUserInfoList = styled.li`
-
   display: flex;
 
   flex: 1;
