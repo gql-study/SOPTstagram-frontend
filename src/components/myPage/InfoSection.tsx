@@ -1,3 +1,5 @@
+import styled from '@emotion/styled';
+
 export default function InfoSection() {
-  return <div>InfoSecion</div>;
+  return <div>InfoSection</div>;
 }
