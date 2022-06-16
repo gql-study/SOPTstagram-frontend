@@ -25,7 +25,6 @@ const StSection = styled.section`
 `;
 
 const StProfileImg = styled.div`
-
   margin-right: 28px;
 
   border-radius: 50%;
@@ -53,7 +52,6 @@ const StName = styled.h2`
 `;
 
 const StEditBtn = styled.button`
-
   display: flex;
   align-items: center;
   justify-content: center;

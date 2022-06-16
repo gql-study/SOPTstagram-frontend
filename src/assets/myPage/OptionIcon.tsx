@@ -36,7 +36,6 @@ export default function OptionIcon() {
 }
 
 const StWrapper = styled.div`
-
   display: inline-flex;
   align-items: center;
   justify-content: center;
