@@ -1,2 +1,5 @@
 import { css } from '@emotion/react';
-export const global = css``;
+import reset from 'emotion-reset';
+export const global = css`
+  ${reset}
+`;
