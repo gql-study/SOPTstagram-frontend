@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 interface UserInfoList {
-  title: string;
+  title: '게시물' | '팔로워' | '팔로우';
   count: number;
 }
 
